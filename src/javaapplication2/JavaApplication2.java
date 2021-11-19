@@ -7,7 +7,7 @@ package javaapplication2;
 
 /**
  *
- * @author Drakollla
+ * @author Drakollla 
  */
 public class JavaApplication2 {
 
